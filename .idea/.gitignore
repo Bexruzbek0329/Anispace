@@ -1,0 +1,20 @@
+# Default ignored files
+/shelf/
+/workspac
+config
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
+.idea/
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+bot_info.logls
+bot_errors.log
+failed_messages.txt
+invalid_users.txt
+bot.log
